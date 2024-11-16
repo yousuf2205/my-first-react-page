@@ -7,7 +7,7 @@ module.exports = {
   entry: './src/index.js', // Ensure this path is correct
   output: {
     filename: 'bundle.js',
-    path: path.resolve(__dirname, 'dist'),
+    path: path.resolve(__dirname, 'build'),
   },
   devServer: {
     static: path.join(__dirname, 'public'), // Serve files from public folder
