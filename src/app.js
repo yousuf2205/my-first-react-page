@@ -14,7 +14,7 @@ import Marqueeimg8 from './media/m_img8.png';
 import Marqueeimg9 from './media/m_img9.png';
 import smallant from './media/natura ant leaf 3.png';
 function App() {
-    const menuItems = ['Home', 'Mango', 'Services', 'Products'];
+    const menuItems = ['Home', 'About Us', 'Services', 'Products'];
     
     return (
         <>
