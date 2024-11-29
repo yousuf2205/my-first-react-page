@@ -1,0 +1,18 @@
+npm setup on windows:
+1. npm init or npm init -y //to install the package file
+2. npm install lodash  //to install node-modules filea nd the dependensies files in package.json file
+3. npm install -g webpack-cli //to install the webpacks
+4. npm install react-helmet //to install requirments for meta data and discription
+5. npm install eslint --save-dev
+6. npx eslint --init
+7. npm install webpack-dev-server --save-dev // to install Hot Module Replacement allows changes to be reflected in the browser without a full reload.
+8. npm install webpack webpack-cli --save-dev
+9. npm install react-dom@latest
+10. npm install webpack webpack-cli babel-loader @babel/core @babel/preset-env @babel/preset-react style-loader css-loader --save-dev
+11. npm install process
+12. npm install html-loader --save-dev
+13. npm install html-webpack-plugin --save-dev 
+
+
+
+

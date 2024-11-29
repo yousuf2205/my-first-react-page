@@ -1,6 +1,6 @@
 
 import React, {  useState, useEffect, useRef } from 'react';
-import logo from './media/logo.png';
+
 import naturaimg from './media/natura logo_natura green 2 (1).png';
 import heroimg2 from './media/natura ant leaf 3.png';
 import Marqueeimg1 from './media/m_img1.png';
@@ -14,7 +14,7 @@ import Marqueeimg8 from './media/m_img8.png';
 import Marqueeimg9 from './media/m_img9.png';
 import smallant from './media/natura ant leaf 3.png';
 function App() {
-    const menuItems = ['Home', 'About Us', 'Services', 'Products'];
+    const menuItems = ['Home', 'Mango', 'Services', 'Products'];
     
     return (
         <>
@@ -122,6 +122,7 @@ const Form = () => {
 
 
 //header section componenets
+import logo from './media/logo.png';
 function Logo(){
     return(
         <img src={logo} alt="logo" className='logo' />
